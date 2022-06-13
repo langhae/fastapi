@@ -1,0 +1,7 @@
+ai/app/model/age_vggface_4.h5
+ai/app/model/gender_vgg16_fine_tuning_2.h5
+ai/app/model/haarcascade_frontalface_default.xml
+
+bigdata/app/csv_file/ads.csv
+bigdata/app/csv_file/priority_df.csv
+bigdata/app/csv_file/time_major_local_people.csv
